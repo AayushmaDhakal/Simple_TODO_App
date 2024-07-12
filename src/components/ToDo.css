@@ -1,0 +1,7 @@
+/* src/ToDo.css */
+.todo span {
+    cursor: pointer;
+    flex-grow: 1;
+    text-align: left;
+  }
+  
